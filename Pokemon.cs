@@ -1,5 +1,6 @@
 ﻿using System;
 
+// Breaking change for git test
 namespace Pokemon
 {
     public class Pokemon
