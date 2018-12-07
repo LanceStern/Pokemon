@@ -25,5 +25,10 @@ namespace Pokemon
         /// </summary>
         public string Nickname { get; set; }
 
+        /// <summary>
+        /// Gets and sets the weight of the Pokemon
+        /// </summary>
+        public double Weight { get; set; }
+
     }
 }
