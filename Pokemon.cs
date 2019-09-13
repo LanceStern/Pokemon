@@ -31,5 +31,11 @@ namespace Pokemon
         /// </summary>
         public double Weight { get; set; }
 
+
+        /// <summary>
+        /// Gets and sets the type of the Pokemon
+        /// </summary>
+        public string Type { get; set; }
+
     }
 }
